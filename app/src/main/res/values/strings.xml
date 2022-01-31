@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlashLight Fonarik</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="company">Company:</string>
+    <string name="cona">Cona Mobile</string>
+    <string name="tg">Telegram:</string>
+    <string name="cona_tg">\@Cona_Mobile</string>
+    <string name="play_store">Play Store:</string>
+</resources>
